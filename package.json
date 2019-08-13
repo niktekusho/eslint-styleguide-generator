@@ -1,7 +1,7 @@
 {
-    "name": "lib-name",
+    "name": "eslint-styleguide-generator",
     "version": "0.0.0",
-    "description": "Lib Description",
+    "description": "Styleguide generator for ESLint rules",
     "main": "index.js",
     "types": "index.d.ts",
     "license": "MIT",
@@ -31,15 +31,15 @@
         "url": "https://github.com/niktekusho/"
     },
     "bugs": {
-        "url": "https://github.com/niktekusho/lib-name/issues"
+        "url": "https://github.com/niktekusho/eslint-styleguide-generator/issues"
     },
     "contributors": [{
         "name": "Nicola Dal Maso",
         "url": "https://github.com/niktekusho/"
     }],
-    "homepage": "https://github.com/niktekusho/lib-name#readme",
+    "homepage": "https://github.com/niktekusho/eslint-styleguide-generator#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/niktekusho/lib-name.git"
+        "url": "git+https://github.com/niktekusho/eslint-styleguide-generator.git"
     }
 }

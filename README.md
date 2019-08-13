@@ -1,8 +1,8 @@
-# lib-name
+# eslint-styleguide-generator
 
-<!-- ![](https://img.shields.io/github/license/niktekusho/lib-name.svg) [![](https://img.shields.io/npm/v/lib-name.svg)](https://www.npmjs.com/package/lib-name) [![Build Status](https://travis-ci.org/niktekusho/lib-name.svg?branch=master)](https://travis-ci.org/niktekusho/lib-name) [![](https://img.shields.io/node/v/lib-name.svg)](https://www.npmjs.com/package/lib-name) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Maintainability](https://api.codeclimate.com/v1/badges/744538fb7227c1a86bea/maintainability)](https://codeclimate.com/github/niktekusho/lib-name/maintainability) [![](https://img.shields.io/bundlephobia/minzip/lib-name.svg)](https://bundlephobia.com/result?p=lib-name) -->
+<!-- ![](https://img.shields.io/github/license/niktekusho/eslint-styleguide-generator.svg) [![](https://img.shields.io/npm/v/eslint-styleguide-generator.svg)](https://www.npmjs.com/package/eslint-styleguide-generator) [![Build Status](https://travis-ci.org/niktekusho/eslint-styleguide-generator.svg?branch=master)](https://travis-ci.org/niktekusho/eslint-styleguide-generator) [![](https://img.shields.io/node/v/eslint-styleguide-generator.svg)](https://www.npmjs.com/package/eslint-styleguide-generator) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Maintainability](https://api.codeclimate.com/v1/badges/744538fb7227c1a86bea/maintainability)](https://codeclimate.com/github/niktekusho/eslint-styleguide-generator/maintainability) [![](https://img.shields.io/bundlephobia/minzip/eslint-styleguide-generator.svg)](https://bundlephobia.com/result?p=eslint-styleguide-generator) -->
 
-> Lib Description
+> Styleguide generator for ESLint rules
 
 ## Installation
 
@@ -11,13 +11,13 @@
 In your console, run the following command:
 
 ```sh
-$ npm install lib-name
+$ npm install eslint-styleguide-generator
 ```
 
 You can also use `yarn` (like we do in this project):
 
 ```sh
-$ yarn add lib-name
+$ yarn add eslint-styleguide-generator
 ```
 
 ## Usage
