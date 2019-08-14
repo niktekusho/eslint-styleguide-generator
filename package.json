@@ -6,6 +6,8 @@
     "types": "index.d.ts",
     "license": "MIT",
     "devDependencies": {
+        "@types/eslint": "^4.16.8",
+        "@types/jest": "^24.0.17",
         "jest": "^24.8.0",
         "np": "^5.0.3",
         "tsd": "^0.7.3",
@@ -33,13 +35,18 @@
     "bugs": {
         "url": "https://github.com/niktekusho/eslint-styleguide-generator/issues"
     },
-    "contributors": [{
-        "name": "Nicola Dal Maso",
-        "url": "https://github.com/niktekusho/"
-    }],
+    "contributors": [
+        {
+            "name": "Nicola Dal Maso",
+            "url": "https://github.com/niktekusho/"
+        }
+    ],
     "homepage": "https://github.com/niktekusho/eslint-styleguide-generator#readme",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/niktekusho/eslint-styleguide-generator.git"
+    },
+    "dependencies": {
+        "eslint": "^6.1.0"
     }
 }
