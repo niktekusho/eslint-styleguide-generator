@@ -350,6 +350,13 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
+"@types/centra@*":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@types/centra/-/centra-2.2.0.tgz#ceb4d966dcd1c5c53023b3ff322db729cea36524"
+  integrity sha512-TUpM1QoIgXa2VL1LnWbTgde39+rRnsOtvb0v8ZrX8t51g8K1Wwu4HAEXcBg5a56GV5Vm/KazyE5+g4AW8YbKNg==
+  dependencies:
+    "@types/node" "*"
+
 "@types/eslint@^4.16.8":
   version "4.16.8"
   resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-4.16.8.tgz#856f0eb8a312d25a7989b6d0ab708e8d5f8cc7ee"
@@ -428,6 +435,14 @@
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
+
+"@types/phin@^3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@types/phin/-/phin-3.3.0.tgz#4eee5871d1780f35afdcac2e90061428dafa1637"
+  integrity sha512-CDGxG1z6two4AdPpT7rTRO/svP3VVJn3EvNUsbUPuKv/ANJJlzbIJq/YH9tmdSElXNkuxbotZ4v5xP/S1iVuMw==
+  dependencies:
+    "@types/centra" "*"
+    "@types/node" "*"
 
 "@types/stack-utils@^1.0.1":
   version "1.0.1"

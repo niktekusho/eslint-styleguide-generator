@@ -8,6 +8,7 @@
     "devDependencies": {
         "@types/eslint": "^4.16.8",
         "@types/jest": "^24.0.17",
+        "@types/phin": "^3.3.0",
         "jest": "^24.8.0",
         "np": "^5.0.3",
         "tsd": "^0.7.3",
@@ -47,6 +48,7 @@
         "url": "git+https://github.com/niktekusho/eslint-styleguide-generator.git"
     },
     "dependencies": {
-        "eslint": "^6.1.0"
+        "eslint": "^6.1.0",
+        "got": "^9.6.0"
     }
 }
